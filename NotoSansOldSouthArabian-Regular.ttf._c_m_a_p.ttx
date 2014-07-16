@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont ttLibVersion="2.4">
+
+  <cmap>
+    <tableVersion version="0"/>
+    <cmap_format_4 platformID="3" platEncID="1" language="0">
+      <map code="0x0" name="uniFEFF"/><!-- &lt;control> -->
+      <map code="0xd" name="uni000D"/><!-- &lt;control> -->
+      <map code="0x20" name="uni00A0"/><!-- SPACE -->
+      <map code="0xa0" name="uni00A0"/><!-- NO-BREAK SPACE -->
+      <map code="0xfeff" name="uniFEFF"/><!-- ZERO WIDTH NO-BREAK SPACE -->
+    </cmap_format_4>
+    <cmap_format_12 platformID="3" platEncID="10" format="12" reserved="0" length="88" language="0" nGroups="6">
+      <map code="0x0" name="uniFEFF"/><!-- &lt;control> -->
+      <map code="0xd" name="uni000D"/><!-- &lt;control> -->
+      <map code="0x20" name="uni00A0"/><!-- SPACE -->
+      <map code="0xa0" name="uni00A0"/><!-- NO-BREAK SPACE -->
+      <map code="0xfeff" name="uniFEFF"/><!-- ZERO WIDTH NO-BREAK SPACE -->
+      <map code="0x10a60" name="glyph00004"/><!-- OLD SOUTH ARABIAN LETTER HE -->
+      <map code="0x10a61" name="glyph00005"/><!-- OLD SOUTH ARABIAN LETTER LAMEDH -->
+      <map code="0x10a62" name="glyph00006"/><!-- OLD SOUTH ARABIAN LETTER HETH -->
+      <map code="0x10a63" name="glyph00007"/><!-- OLD SOUTH ARABIAN LETTER MEM -->
+      <map code="0x10a64" name="glyph00008"/><!-- OLD SOUTH ARABIAN LETTER QOPH -->
+      <map code="0x10a65" name="glyph00009"/><!-- OLD SOUTH ARABIAN LETTER WAW -->
+      <map code="0x10a66" name="glyph00010"/><!-- OLD SOUTH ARABIAN LETTER SHIN -->
+      <map code="0x10a67" name="glyph00011"/><!-- OLD SOUTH ARABIAN LETTER RESH -->
+      <map code="0x10a68" name="glyph00012"/><!-- OLD SOUTH ARABIAN LETTER BETH -->
+      <map code="0x10a69" name="glyph00013"/><!-- OLD SOUTH ARABIAN LETTER TAW -->
+      <map code="0x10a6a" name="glyph00014"/><!-- OLD SOUTH ARABIAN LETTER SAT -->
+      <map code="0x10a6b" name="glyph00015"/><!-- OLD SOUTH ARABIAN LETTER KAPH -->
+      <map code="0x10a6c" name="glyph00016"/><!-- OLD SOUTH ARABIAN LETTER NUN -->
+      <map code="0x10a6d" name="glyph00017"/><!-- OLD SOUTH ARABIAN LETTER KHETH -->
+      <map code="0x10a6e" name="glyph00018"/><!-- OLD SOUTH ARABIAN LETTER SADHE -->
+      <map code="0x10a6f" name="glyph00019"/><!-- OLD SOUTH ARABIAN LETTER SAMEKH -->
+      <map code="0x10a70" name="glyph00020"/><!-- OLD SOUTH ARABIAN LETTER FE -->
+      <map code="0x10a71" name="glyph00021"/><!-- OLD SOUTH ARABIAN LETTER ALEF -->
+      <map code="0x10a72" name="glyph00022"/><!-- OLD SOUTH ARABIAN LETTER AYN -->
+      <map code="0x10a73" name="glyph00023"/><!-- OLD SOUTH ARABIAN LETTER DHADHE -->
+      <map code="0x10a74" name="glyph00024"/><!-- OLD SOUTH ARABIAN LETTER GIMEL -->
+      <map code="0x10a75" name="glyph00025"/><!-- OLD SOUTH ARABIAN LETTER DALETH -->
+      <map code="0x10a76" name="glyph00026"/><!-- OLD SOUTH ARABIAN LETTER GHAYN -->
+      <map code="0x10a77" name="glyph00027"/><!-- OLD SOUTH ARABIAN LETTER TETH -->
+      <map code="0x10a78" name="glyph00028"/><!-- OLD SOUTH ARABIAN LETTER ZAYN -->
+      <map code="0x10a79" name="glyph00029"/><!-- OLD SOUTH ARABIAN LETTER DHALETH -->
+      <map code="0x10a7a" name="glyph00030"/><!-- OLD SOUTH ARABIAN LETTER YODH -->
+      <map code="0x10a7b" name="glyph00031"/><!-- OLD SOUTH ARABIAN LETTER THAW -->
+      <map code="0x10a7c" name="glyph00032"/><!-- OLD SOUTH ARABIAN LETTER THETH -->
+      <map code="0x10a7d" name="glyph00033"/><!-- OLD SOUTH ARABIAN NUMBER ONE -->
+      <map code="0x10a7e" name="glyph00034"/><!-- OLD SOUTH ARABIAN NUMBER FIFTY -->
+      <map code="0x10a7f" name="glyph00035"/><!-- OLD SOUTH ARABIAN NUMERIC INDICATOR -->
+    </cmap_format_12>
+  </cmap>
+
+</ttFont>
